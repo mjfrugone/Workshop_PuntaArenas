@@ -11,7 +11,7 @@
 3) [cstacks](http://catchenlab.life.illinois.edu/stacks/comp/cstacks.php)
 	Se genera un "catálogo" que contiene los alelos de la poblacion. Es un tipo de referencia que se genera para luego compararlo con cada individuo.
 
-4) [sstacks](http://catchenlab.life.illinois.edu/stacks/comp/sstacks.php)
+4) [sstacks](http://catchenlab.life.illinois.edu/stacks/comp/sstacks.php)
 	Los alelos de cada individuo detectados en ustacks, se comparan y se buscan en el catalogo
 
 
@@ -27,7 +27,7 @@
 
 [denovo_map.pl](http://catchenlab.life.illinois.edu/stacks/comp/denovo_map.php)
 
-Parámetros más importantes [aquí](http://catchenlab.life.illinois.edu/stacks/param_tut.php):
+Parámetros más importantes [aquí](http://catchenlab.life.illinois.edu/stacks/param_tut.php):
 
 
 Ahondando un poco más:
