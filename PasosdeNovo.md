@@ -1,4 +1,4 @@
-#Workshop Punta Arenas
+
 
 ## Pasos para alineamiento y llamado de variantes de Novo
 
